@@ -23,7 +23,7 @@ Atualmente estou fazendo faculdade de Engenharia de Computação no Instituto Fe
 
 ----
 
-**Languages and Tools:** 
+**Linguagens e tecnologias :** 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -31,13 +31,5 @@ Atualmente estou fazendo faculdade de Engenharia de Computação no Instituto Fe
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> View my stats on Github 
-   
-![Ary's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryclenio&count_private=true)
-
-#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> See my top languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryclenio&layout=compact&langs_count=12)](https://github.com/anuraghazra/github-readme-stats)
 
 ![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
