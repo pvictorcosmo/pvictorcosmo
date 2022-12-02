@@ -1,6 +1,6 @@
 
-<h2> Olá, sou o Paulo.</h2>
-<h2>
+<h2> Olá, sou o Paulo.
+  <br>
 <a target="_blank" href="https://www.linkedin.com/in/paulo-victor-cosmo-batista-537047218/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
