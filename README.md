@@ -2,7 +2,7 @@
 <h1> Olá, sou o Paulo.</h1>
   <p>
 <a target="_blank" href="https://www.linkedin.com/in/paulo-victor-cosmo-batista-537047218/">
-  <img align="left" color:"white" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" color:#fff alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a target="_blank" href="https://api.whatsapp.com/send?phone=5585989592085">
   <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
