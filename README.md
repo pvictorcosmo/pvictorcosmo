@@ -1,5 +1,5 @@
 
-# 👋 Olá, eu sou o Paulo!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> </h1>
+## 👋 Olá, eu sou o Paulo!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> </h1>
 
 <a target="_blank" href="https://www.linkedin.com/in/paulo-victor-cosmo-batista-537047218/">
   <img color:#fff align="left"  alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
