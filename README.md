@@ -17,7 +17,7 @@
 
 ----
 
-Olá, meu nome é Paulo Victor e eu tive meu primeiro contato com a programação no meu curso de redes de computadores  no SENAI em 2020, onde comecei a estudar conceitos de lógica e estrutura de dados, tive algumas experiências no ensino médio com programação envovendo Java e Python, e na mesma época eu pude também aprender tecnologias para desenvolvimento WEB como Html , CSS e Javascript.
+Olá, meu nome é Paulo Victor e eu tive meu primeiro contato com a programação no meu curso de redes de computadores  no SENAI em 2020, onde comecei a estudar conceitos de lógica e estrutura de dados, tive algumas experiências no ensino médio com programação envolvendo Java e Python, e na mesma época eu pude também aprender tecnologias para desenvolvimento WEB como HTML , CSS e Javascript.
 
 Atualmente estou fazendo faculdade de Engenharia de Computação no Instituto Federal do Ceará e comecei recentemente na minha bolsa no instituto iracema de inovação, onde trabalho com desenvolvimento de software desktop para sistemas embarcados utilizando QT5 e C++.
 
