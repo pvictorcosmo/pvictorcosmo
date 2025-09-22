@@ -17,9 +17,11 @@
 
 ----
 
-Olá, meu nome é Paulo Victor e eu tive meu primeiro contato com a programação no meu curso de redes de computadores  no SENAI em 2020, onde comecei a estudar conceitos de lógica e estrutura de dados, tive algumas experiências no ensino médio com programação envolvendo Java e Python, e na mesma época eu pude também aprender tecnologias para desenvolvimento WEB como HTML , CSS e Javascript.
+Olá, meu nome é Paulo Victor. Tive meu primeiro contato com programação em 2020, durante o curso de Redes de Computadores no SENAI, onde comecei a estudar conceitos de lógica e estruturas de dados. Também tive algumas experiências no ensino médio com programação em Java e Python. Ao mesmo tempo, explorei tecnologias de desenvolvimento web, como Node.js, Vue.js e React.
 
-Atualmente estou fazendo faculdade de Engenharia de Computação no Instituto Federal do Ceará e comecei recentemente na minha bolsa no instituto iracema de inovação, onde trabalho com desenvolvimento de software desktop para sistemas embarcados utilizando QT5 e C++.
+Ao longo dos anos, ampliei minhas habilidades e adquiri experiência com Flutter, Next.js, React Native, .NET MAUI e C# Blazor, atuando tanto no desenvolvimento back-end quanto no front-end. Também tive a oportunidade de colaborar em projetos para Portugal, o que contribuiu bastante para meu crescimento técnico e profissional.
+
+Sou apaixonado por desenvolvimento de software, desde aplicações móveis e web até soluções desktop.
 
 ----
 
