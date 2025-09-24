@@ -1,5 +1,4 @@
-
-### 👋 Olá, eu sou o Paulo!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> 
+<h1>👋 Hi, I'm Paulo! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></h1> 
 </br>
 <a href="https://www.linkedin.com/in/paulo-victor-cosmo-batista-537047218/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white" />
@@ -15,15 +14,15 @@
 
 ----
 
-Olá, meu nome é Paulo Victor. Sou desenvolvedor de software com experiência no front-end e no back-end, e gosto de trabalhar em projetos que unem tecnologia e inovação. Já utilizei diferentes ferramentas e frameworks, como Flutter, Next.js, React Native, .NET MAUI e C# Blazor, sempre com foco em criar aplicações modernas, escaláveis e de qualidade.
+Hello, my name is Paulo Victor. I am a software developer with experience in both front-end and back-end, and I enjoy working on projects that combine technology and innovation. I have worked with various tools and frameworks, such as Flutter, Next.js, React Native, .NET MAUI, and C# Blazor, always focusing on creating modern, scalable, and high-quality applications.
 
-Também tenho experiência com serviços em nuvem, como AWS e Azure, e um interesse especial em arquitetura de frontend, cuidando para que as aplicações sejam bem estruturadas, rápidas e fáceis de evoluir.
+I also have experience with cloud services, such as AWS and Azure, and a particular interest in frontend architecture, ensuring applications are well-structured, fast, and easy to maintain.
 
-Ao longo da minha trajetória, tive a chance de colaborar em projetos internacionais, incluindo Portugal, o que foi muito importante para o meu crescimento técnico e profissional. Gosto do desafio de transformar ideias em soluções reais, seja em aplicações móveis, web ou desktop.
+Throughout my career, I have had the opportunity to collaborate on international projects, including in Portugal, which was very important for my technical and professional growth. I enjoy the challenge of turning ideas into real solutions, whether in mobile, web, or desktop applications.
 
 ----
 
-<h1>Linguagens e tecnologias :</h1>
+<h1>Languages and Technologies:</h1>
 
 <!-- Frontend -->
 <h3>Frontend</h3>
@@ -74,6 +73,5 @@ Ao longo da minha trajetória, tive a chance de colaborar em projetos internacio
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png"></code>
 </p>
-
 
 ![snake gif](https://github.com/pvictorcosmo/pvictorcosmo/blob/output/github-snake-dark.svg)
