@@ -41,7 +41,6 @@ Ao longo da minha trajetória, tive a chance de colaborar em projetos internacio
 <p>
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/react-native/react-native.png"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/maui/maui.png"></code>
 </p>
 
 <!-- Backend -->
