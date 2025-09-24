@@ -2,13 +2,13 @@
 ### 👋 Olá, eu sou o Paulo!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> 
 </br>
 <a href="https://www.linkedin.com/in/paulo-victor-cosmo-batista-537047218/" target="_blank">
-  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin/white" />
+  <img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/pvictorcosmo/pvictorcosmo/main/assets/icons/linkedin-white.svg" />
 </a>
 <a href="https://api.whatsapp.com/send?phone=5585989675938" target="_blank">
-  <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" style="filter: invert(100%);" />
+  <img align="left" alt="WhatsApp" width="22px" src="https://raw.githubusercontent.com/pvictorcosmo/pvictorcosmo/main/assets/icons/whatsapp-white.svg" />
 </a>
 <a href="mailto:pvictorcosmo@gmail.com" target="_blank">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" style="filter: invert(100%);" />
+  <img align="left" alt="Gmail" width="22px" src="https://raw.githubusercontent.com/pvictorcosmo/pvictorcosmo/main/assets/icons/gmail-white.svg" />
 </a>
 </br>
 
