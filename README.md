@@ -22,7 +22,7 @@ Ao longo da minha trajetória, tive a chance de colaborar em projetos internacio
 
 ----
 
-**Linguagens e tecnologias :** 
+<h1>Linguagens e tecnologias :</h1>
 
 <!-- Frontend -->
 <h3>Frontend</h3>
