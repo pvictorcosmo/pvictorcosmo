@@ -2,13 +2,13 @@
 ### 👋 Olá, eu sou o Paulo!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> 
 </br>
 <a href="https://www.linkedin.com/in/paulo-victor-cosmo-batista-537047218/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white" />
+  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="filter: invert(100%);" />
 </a>
 <a href="https://api.whatsapp.com/send?phone=5585989675938" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white" />
+  <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" style="filter: invert(100%);" />
 </a>
 <a href="mailto:pvictorcosmo@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
+  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" style="filter: invert(100%);" />
 </a>
 </br>
 
