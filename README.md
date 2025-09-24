@@ -75,4 +75,4 @@ Ao longo da minha trajetória, tive a chance de colaborar em projetos internacio
 </p>
 
 
-![snake gif](https://github.com/pvictorcosmo/pvictorcosmo/blob/output/github-snake.svg)
+![snake gif](https://github.com/pvictorcosmo/pvictorcosmo/blob/output/github-snake-dark.svg)
