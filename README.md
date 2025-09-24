@@ -2,7 +2,7 @@
 ### 👋 Olá, eu sou o Paulo!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> 
 
 <a target="_blank" href="https://www.linkedin.com/in/paulo-victor-cosmo-batista-537047218/">
-  <img color:#fff align="left"  alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left"  alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="color: #ffffff"/>
 </a>
 <a target="_blank" href="https://api.whatsapp.com/send?phone=5585989675938">
   <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
